@@ -1,11 +1,11 @@
-### Hi! I'm Sean 👋
+# Hi! I'm Sean 👋
 Diploma in Information Technology student passionate about full-stack web development based in Kuala Lumpur.
 
 - Built projects with **PHP, MySQL, HTML, CSS, Python, and JavaScript**
 - Currently learning **React** 
 - How to reach me: seanfelsonfelix@gmail.com | [Linkedin] (https://www.linkedin.com/in/seanfelsonfelix)
 
-### Tech Stack
+## Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
