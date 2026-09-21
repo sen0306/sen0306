@@ -3,7 +3,7 @@ Diploma in Information Technology student passionate about full-stack web develo
 
 - Built projects with **PHP, MySQL, HTML, CSS, Python, and JavaScript**
 - Currently learning **React** 
-- How to reach me: seanfelsonfelix@gmail.com | [Linkedin] (https://www.linkedin.com/in/seanfelsonfelix)
+- How to reach me:[Gmail]= seanfelsonfelix@gmail.com | [Linkedin]= https://www.linkedin.com/in/seanfelsonfelix
 
 ## Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
